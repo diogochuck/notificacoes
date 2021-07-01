@@ -1,0 +1,8 @@
+desktop/__pycache__/
+desktop/build/
+desktop/dist/
+desktop/myenv/
+
+server/__pycache__/
+server/app/__pycache__/
+server/venv/
